@@ -1,0 +1,15 @@
+.jh-header {
+    text-align: right;
+    padding: 10px;
+    border-bottom: solid 2px black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.jh-logo {
+    width: 50px;
+    height: 50px;
+}
